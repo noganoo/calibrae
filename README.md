@@ -1,5 +1,4 @@
-> ![Female Green Crowned Brilliant Hummingbird](https://raw.githubusercontent.com/steempunks/calibrae/master/calibrae.png)
-> # Calibrae
+> ![Female Green Crowned Brilliant Hummingbird](https://raw.githubusercontent.com/steempunks/calibrae/master/calibrae-small.png) <h1>Calibrae</h1>
 
 This is the fork that none of the preminers wanted to happen. This is the fork that is happening despite the spaghetti of the C++ code contained therein. The primary reason for the fork is to channge the chain ID so there will not be any muddle between this and the old chain. 
 
