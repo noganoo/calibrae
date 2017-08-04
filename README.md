@@ -1,3 +1,13 @@
+# Steemit-Reloaded
+
+This is the fork that none of the preminers wanted to happen. This is the fork that is happening despite the spaghetti of the C++ code contained therein. The primary reason for the fork is to channge the chain ID so there will not be any muddle between this and the old chain. 
+
+With that in place, and a lot of edits to improve the documentation, the chain will be amended to snapshot everyone's accounts at a certain time, when there is enough people to run enough nodes to make the new network operational, and a webserver to provide an interface (probably busy's as it is likely easier to get running) so that users can start working on the new chain, with the premine deleted.
+
+Below is the original crap that was in this file:
+
+----------------------------
+
 # Introducing Steem (beta)
 
 Steem is an experimental Delegated Proof of Stake blockchain with an unproven consensus
